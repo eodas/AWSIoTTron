@@ -13,7 +13,7 @@
 	<description>AWS IoT Tron AWS-IoT BPMN/BRMS Server :: AWS IoT Tron Server BPMN/BRMS Application using the jBPM and Drools Rules Engine for AI-IoTBPM Device Orchestration Executive Order Corp</description>
 
 	<properties>
-		<runtime.version>7.46.0.Final</runtime.version>
+		<runtime.version>7.47.0.Final</runtime.version>
 		<maven.compiler.source>1.7</maven.compiler.source>
 		<maven.compiler.target>1.7</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -1,6 +1,6 @@
 # AWS IoT Tron :: AWS–IoT BPMN/BRMS Server is a Business Process Management engine for IoT Device Orchestration.
 
-![alt tag](https://iotbpm.com/wp-content/uploads/2020/11/AWS_IoT_Tron.png "AWS IoT Tron")
+![alt tag](https://iotbpm.com/wp-content/uploads/2021/11/AWS_IoT_Tron.png "AWS IoT Tron")
 
 Executive Order Corp - AWS IoT Tron MQTT Telemetry Transport Machine-to-Machine(M2M) / Internet of Things (IoT)
 AWS IoT Tron :: Executive Order AWS IoT Tron Sensor Processor MQTT AI-IoTBPMServer Client using the jBPM and Drools Rules Engine for AI-IoTBPM Device Orchestration Executive Order Corp
@@ -28,7 +28,7 @@ You can have an unlimited number and combination of AWS IoT Tron IoT Devices and
 
 (1) AWS IoT Tron AI-IoTBPMServer - To install the AWS IoT Tron AI-IoTBPMServer program on your windows computer, download and install the "Eclipse IDE for Java Developers."
 Use the Eclipse feature to add new software, available on the Eclipse menu "Help -> Install New Software". Select the "Add" option and install these packages:
-1. Drools + jBPM Update Site 7.46.0 - http://downloads.jboss.org/jbpm/release/7.46.0.Final/updatesite/
+1. Drools + jBPM Update Site 7.47.0 - http://downloads.jboss.org/jbpm/release/7.47.0.Final/updatesite/
 2. BPMN2-Modeler 1.5.1 - http://download.eclipse.org/bpmn2-modeler/updates/photon/1.5.1/
 3. GIT the AWS IoT Tron from the source code repository, and Import Existing Maven project.
 
@@ -81,4 +81,4 @@ For testing messages syntax to the IoTBPM Server, use the cURL command line tool
 </code></pre>
 
 - Executive Order Corporation
-- Copyright - 1978, 2020: Executive Order Corporation, All Rights Reserved
+- Copyright - 1978, 2021: Executive Order Corporation, All Rights Reserved

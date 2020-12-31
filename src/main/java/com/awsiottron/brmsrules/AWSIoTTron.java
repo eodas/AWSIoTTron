@@ -27,7 +27,7 @@ import com.awsiottron.server.IoTServer;
  * Executive Order Corporation - AWS IoT Tron MQTT Telemetry Transport Machine-to-Machine(M2M)/Internet of Things(IoT)
  *
  * Executive Order Corporation
- * Copyright (c) 1978, 2019: Executive Order Corporation, All Rights Reserved
+ * Copyright (c) 1978, 2021: Executive Order Corporation, All Rights Reserved
  */
 
 /**
