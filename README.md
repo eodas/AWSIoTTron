@@ -1,4 +1,4 @@
-# AWS IoT Tron :: AWS–IoT BPMN/BRMS Server is a Business Process Management engine for IoT Device Orchestration.
+# AWS IoT Tron :: AWS–IoT BPMN/BRMS Server is a Business Process Management engine for IoT Device Orchestration
 
 ![alt tag](https://iotbpm.com/wp-content/uploads/2020/11/AWS_IoT_Tron.png "AWS IoT Tron")
 
